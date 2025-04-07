@@ -11,6 +11,6 @@
 
 <h3>Step 1 - Project preparation and data collection</h3><br>
 <ul>
- <input type = "checkbox"><li>Dataset was searched and downloaded from kaggle.com</li>
+ <li>Dataset was searched and downloaded from kaggle.com</li><input type="checkbox" id="step1-1" name="step1" checked />
  <li>Dataset saved to cloud storage(One Drive) set up environment </li>
 </ul>
