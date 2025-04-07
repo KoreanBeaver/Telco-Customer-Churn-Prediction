@@ -9,3 +9,8 @@
  <li>keep the project up to date in Git Hub</li>
 </ul>
 
+<h3>Step 1 - Project preparation and data collection</h3><br>
+<ul>
+ <input type = "checkbox"><li>Dataset was searched and downloaded from kaggle.com</li>
+ <li>Dataset saved to cloud storage(One Drive) set up environment </li>
+</ul>
