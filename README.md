@@ -1,6 +1,6 @@
 # Telco Customer Churn Analysis Dashboard
 
-![Telco Churn Dashboard](telco_churn_dashboard_screenshot.png)
+![Telco Churn Dashboard](resources\telco_churn_dashboard_screenshot.png)
 
 ## 📋 Project Overview
 
